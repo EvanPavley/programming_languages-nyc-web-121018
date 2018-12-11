@@ -1,3 +1,5 @@
 def reformat_languages(languages)
-  # your code here
+  reformated_languages = {}
+  #pull out the languages
+  #pull out the 
 end
